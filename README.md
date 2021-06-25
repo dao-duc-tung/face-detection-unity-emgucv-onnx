@@ -34,9 +34,11 @@
 
 ![product-screenshot][product-screenshot]
 
-The purpose of the project is to integrate an ONNX-based Face Detection CNN Model into a Windows-based Unity application by using Emgu CV Dnn module for inference.
+The project integrates an ONNX-based Face Detection CNN Model into a Windows-based Unity application by using Emgu CV Dnn module for inference.
 
-The inference implementation of the ONNX model using Emgu CV was actually done in my previous project [Face Detection on UWP using ONNX](https://github.com/dao-duc-tung/face-detection-uwp-onnx). This project mainly shows how to integrate Emgu CV into an Unity application and how to interact with image data from a PC webcam.
+The purpose of the project is to mainly show how to integrate Emgu CV (latest version) into an Unity application for **FREE** in **3 steps** without buying [Emgu CV v4.x in Unity Asset Store](https://assetstore.unity.com/packages/tools/ai/emgu-cv-v4-x-144853) and how to interact with image data from a PC webcam.
+
+The inference implementation of the ONNX model using Emgu CV was actually done in my previous project [Face Detection on UWP using ONNX](https://github.com/dao-duc-tung/face-detection-uwp-onnx).
 
 Project is built with
 - Emgu.CV v4.5.1.4349
