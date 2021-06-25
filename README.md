@@ -48,7 +48,7 @@ Project is built with
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. Clone the repository and open project folder in Unity
+1. Clone the repository and open project folder in Unity (Just click `Ignore` when it shows error)
 
 2. Install NuGet Package Manager
   - Download and install NuGet for Unity [here](https://github.com/GlitchEnzo/NuGetForUnity/releases)
@@ -62,7 +62,7 @@ Project is built with
   - Download Emgu CV [here](https://github.com/emgucv/emgucv/releases). Make sure the version is matched with Emgu CV in the previous step.
   - After installing, go to folder `libs\x64`, i.e. `C:\Emgu\emgucv-windesktop 4.5.1.4349\libs\x64`, copy file `cvextern.dll` to the `Assets\Plugins` folder in your Unity project
 
-5. Play app in Unity
+5. Open `Assets\Scenes\SampleScene` and play app in Unity
 
 
 <!-- CONTRIBUTING -->
